@@ -2,11 +2,11 @@
 # PART 1
 
 # Define a variable that stores a string
-# species = "Acer Palmatum"
-# p species.upcase
-# p species.downcase
-# p species.reverse
-# p species.length
+species = "Acer Palmatum"
+p species.upcase
+p species.downcase
+p species.reverse
+p species.length
 
 #  call upcase on the variable, print it out
 #  call downcase on the variable, print it out
