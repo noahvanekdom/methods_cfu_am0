@@ -57,5 +57,8 @@ end
 
 puts greet_person("Noah","Stephen","van Ekdom")
 # What is the return value of your method?
+# "Noah Stephen van Ekdom get down here RIGHT NOW OR I SWEAR TO GOD AS YOUR MOTHER I WILL..."
 # How many arguments did you pass your method?
+# 3
 # What data type was your argument(s)?
+# My arguments were all strings
